@@ -6,4 +6,4 @@ This repository contains all my SQL data analysis projects. Each project demonst
 
 Feel free to connect with me on LinkedIn: [Shreyash Supe](https://www.linkedin.com/in/shreyashsupe/)
 
-You can also reach me via email at: [mail](mailto:shreyashsupe11@gmail.com)
+You can also reach me via email at: [shreyashsupe11@gmail.com](mailto:shreyashsupe11@gmail.com)
