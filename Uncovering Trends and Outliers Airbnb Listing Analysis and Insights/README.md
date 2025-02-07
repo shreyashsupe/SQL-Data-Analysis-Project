@@ -76,5 +76,5 @@ This project involves several key SQL queries to explore and analyze the dataset
 
 ## Connect with Me
 
-Feel free to connect with me on LinkedIn: [Shreyash Supe](www.linkedin.com/in/shreyashsupe)
+Feel free to connect with me on LinkedIn: [Shreyash Supe](https://www.linkedin.com/in/shreyashsupe/)
 
