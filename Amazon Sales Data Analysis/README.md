@@ -31,7 +31,7 @@ The dataset (`amazon_data`) contains detailed information about various Amazon p
 You can find all the SQL queries used in this project in the [Amazon_Sales_Analysis.sql] file.  
 
 Click here to view the full SQL script:  
-[Amazon_Sales_Analysis.sql](LINK_TO_YOUR_SQL_FILE)
+[Amazon_Sales_Analysis.sql](https://github.com/shreyashsupe/SQL-Data-Analysis-Project/blob/main/Amazon%20Sales%20Data%20Analysis/Script.sql)
 
 ## Conclusion
 
